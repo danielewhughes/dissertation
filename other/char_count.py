@@ -5,7 +5,7 @@ with open("/Users/danielhughes/Documents/College/Fourth-Year/Capstone/Dissertati
 
 new_songs = []
 for song in songs:
-    if song["original-lyrics"].count("\n\n") != song["translated-lyrics"].count("\n\n"):
+    if song["original-lyrics"].count("\n") != song["translated-lyrics"].count("\n"):
         song_object = {
             "title": song["title"],
             "original-lyrics-count": song["original-lyrics"].count("\n"),

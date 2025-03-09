@@ -1,61 +1,90 @@
 sacreBLEU:
     en-ga:
         google_translate:
-            * formatted line by line *
-                BLEU = 7.31 21.2/9.1/4.9/3.0 (BP = 1.000 ratio = 1.062 hyp_len = 61548 ref_len = 57937)
-                chrF2 = 24.52
-            * removing commas *
-                BLEU = 6.77 19.9/8.7/4.6/2.7 (BP = 1.000 ratio = 1.060 hyp_len = 58615 ref_len = 55318)
-                chrF2 = 24.58
-            * removing apostrpohes *
-                BLEU = 7.39 21.4/9.2/5.0/3.0 (BP = 1.000 ratio = 1.062 hyp_len = 61539 ref_len = 57932)
-                chrF2 = 24.77
-            * removing commas and apostrophes *
-                BLEU = 6.85 20.1/8.8/4.6/2.7 (BP = 1.000 ratio = 1.060 hyp_len = 58612 ref_len = 55313)
-                chrF2 = 24.84
-            * formatted as one big block of text (no new line char) *
-                BLEU = 18.76 64.7/28.5/11.5/5.8 (BP = 1.000 ratio = 1.062 hyp_len = 61888 ref_len = 58277)
-                chrF2 = 68.86
+            line -> lyric sentence:
+                BLEU = 16.76 42.3/21.3/12.0/7.3 (BP = 1.000 ratio = 1.056 hyp_len = 59282 ref_len = 56135)
+                chrF2 = 39.06
+            line -> whole song:
+                BLEU = 17.28 51.8/21.8/11.6/6.8 (BP = 1.000 ratio = 1.056 hyp_len = 59280 ref_len = 56142)
+                chrF2 = 47.58
+            line -> entire dataset:
+                BLEU = 22.95 70.4/35.8/14.9/7.4 (BP = 1.000 ratio = 1.056 hyp_len = 59280 ref_len = 56142)
+                chrF2 = 72.45
         nllb_200:
-            * formatted line by line *
-                BLEU = 4.05 16.2/5.2/2.4/1.3 (BP = 1.000 ratio = 1.240 hyp_len = 71826 ref_len = 57937)
-                chrF2 = 20.46
-            * removing commas *     
-                BLEU = 3.60 15.1/4.9/2.1/1.1 (BP = 1.000 ratio = 1.223 hyp_len = 67666 ref_len = 55318)
-                chrF2 = 20.52
-            * removing apostrpohes *
-                BLEU = 4.08 16.3/5.3/2.4/1.3 (BP = 1.000 ratio = 1.239 hyp_len = 71787 ref_len = 57932)
-                chrF2 = 20.66
-            * removing commas and apostrophes *
-                BLEU = 3.64 15.2/5.0/2.2/1.1 (BP = 1.000 ratio = 1.223 hyp_len = 67631 ref_len = 55313)
-                chrF2 = 20.72
-            * formatted as one big block of text (no new line char) *
-                BLEU = 10.89 47.7/18.6/6.1/2.6 (BP = 1.000 ratio = 1.238 hyp_len = 72165 ref_len = 58277)
-                chrF2 = 62.04
-
+            line -> lyric sentence:
+                BLEU = 10.04 32.9/13.5/6.6/3.5 (BP = 1.000 ratio = 1.172 hyp_len = 65774 ref_len = 56135)
+                chrF2 = 30.83
+            line -> whole song:
+                BLEU = 10.55 42.6/14.3/6.3/3.2 (BP = 1.000 ratio = 1.172 hyp_len = 65774 ref_len = 56142)
+                chrF2 = 41.36
+            line -> entire dataset:
+                BLEU = 14.89 56.6/25.8/9.2/3.7 (BP = 1.000 ratio = 1.172 hyp_len = 65774 ref_len = 56142)
+                chrF2 = 66.50
     
 
 METEOR:
     en-ga:
         google_translate:
-            * using ufal.udpipe tokeniser *
-                Meteor = 0.1673834700862111
-            * using ufal.udpipe tokeniser/lemmatiser with custom synonym matching using Pota Focal *
-                Meteor = 0.23905804921546275 or 0.24
-            * using NLTK tokeniser *
-                Meteor = 0.16738667006703928
+            nltk tokeniser:
+                0.3373486329921864
+            udpipe tokeniser:
+                0.3373486329921864
+            udpipe lemmatiser:
+                0.3663373370717433
         nllb_200:
-            * using ufal.udpipe tokeniser *
-                Meteor = 0.13394958546598196
-            * using ufal.udpipe tokeniser with customer synonym matching using Pota Focal *
-                Meteor = 0.20546984568920248 or 0.205
-            * using NLTK tokeniser *
-                Meteor = 0.13396239523769962
+            nltk tokeniser:
+                0.24955302299031384
+            udpipe tokeniser:
+                0.24955302299031384
+            udpipe lemmatiser:
+                0.28235512673680097
+
+
+METEOR with synonym customisation:
+    en-ga:
+        google_translate:
+            0.4559113230173426
+        nllb_200:
+            0.35859259548211636
 
 
 BERTscore:
     en-ga:
         google_translate:
-
-
+            mBert:
+                Precision: 0.791
+                Recall: 0.793
+                F1 Score: 0.792
+            xlmR:
+                Precision: 0.871
+                Recall: 0.874
+                F1 Score: 0.872
         nllb_200:
+            mBert:
+                Precision: 0.750
+                Recall: 0.751
+                F1 Score: 0.751
+            xlmR:
+                Precision: 0.852
+                Recall: 0.853
+                F1 Score: 0.852
+
+
+Syllables:
+    en-ga:
+        originals-references: 0.21043527373704501
+        originals-google: 0.24700047239881834
+        originals-nllbs: 0.29623143760502396
+# CMU dict or pronouncing?
+
+
+Stress:
+    en-ga:
+        pronouncing:
+            originals-reference: 0.7172997918627569
+            originals-google: 0.7193667122832882
+            originals-nllbs: 0.7200839481210993
+        nltk:
+            originals-reference: 0.6525707335324504
+            originals-google: 0.6539244859668
+            originals-nllbs: 0.6541249505306446

@@ -1,0 +1,2054 @@
+[
+    {
+        "index": 0,
+        "syllable_diff": 0.15115584415584415,
+        "stress_diff": 0.8238290598290599,
+        "rhyme_diff": 0.16666666666666663
+    },
+    {
+        "index": 1,
+        "syllable_diff": 0.23787416287416285,
+        "stress_diff": 0.7975349881599881,
+        "rhyme_diff": 0.20000000000000007
+    },
+    {
+        "index": 2,
+        "syllable_diff": 0.2532471001221001,
+        "stress_diff": 0.7485121360121361,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 3,
+        "syllable_diff": 0.12253968253968253,
+        "stress_diff": 0.7478980278980278,
+        "rhyme_diff": 0.6799999999999999
+    },
+    {
+        "index": 4,
+        "syllable_diff": 0.16801293944151086,
+        "stress_diff": 0.8097180597180598,
+        "rhyme_diff": 0.11428571428571421
+    },
+    {
+        "index": 5,
+        "syllable_diff": 0.15427476022000017,
+        "stress_diff": 0.8658000700280112,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 6,
+        "syllable_diff": 0.17856421356421356,
+        "stress_diff": 0.8021520701520701,
+        "rhyme_diff": 0.33333333333333337
+    },
+    {
+        "index": 7,
+        "syllable_diff": 0.3096153846153846,
+        "stress_diff": 0.6888630600169061,
+        "rhyme_diff": 0.11999999999999988
+    },
+    {
+        "index": 8,
+        "syllable_diff": 0.2725793650793651,
+        "stress_diff": 0.7471212121212121,
+        "rhyme_diff": 0.1333333333333333
+    },
+    {
+        "index": 9,
+        "syllable_diff": 0.21133996212121212,
+        "stress_diff": 0.7616251803751803,
+        "rhyme_diff": 0.25
+    },
+    {
+        "index": 10,
+        "syllable_diff": 0.21059756216006215,
+        "stress_diff": 0.8581728524743231,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 11,
+        "syllable_diff": 0.1189373897707231,
+        "stress_diff": 0.7066498316498316,
+        "rhyme_diff": 0.64
+    },
+    {
+        "index": 12,
+        "syllable_diff": 0.337037037037037,
+        "stress_diff": 0.7496151996151996,
+        "rhyme_diff": 0.15999999999999992
+    },
+    {
+        "index": 13,
+        "syllable_diff": 0.15110780423280423,
+        "stress_diff": 0.7695707070707071,
+        "rhyme_diff": 0.6857142857142857
+    },
+    {
+        "index": 14,
+        "syllable_diff": 0.14342403628117914,
+        "stress_diff": 0.7556972789115646,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 15,
+        "syllable_diff": 0.37103174603174605,
+        "stress_diff": 0.7653439153439153,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 16,
+        "syllable_diff": 0.21573056573056573,
+        "stress_diff": 0.7850809684143017,
+        "rhyme_diff": 0.11999999999999988
+    },
+    {
+        "index": 17,
+        "syllable_diff": 0.1899122807017544,
+        "stress_diff": 0.7297462771146982,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 18,
+        "syllable_diff": 0.35967773545898546,
+        "stress_diff": 0.767972132034632,
+        "rhyme_diff": 0.5
+    },
+    {
+        "index": 19,
+        "syllable_diff": 0.2665674603174603,
+        "stress_diff": 0.7041795506081221,
+        "rhyme_diff": 0.3142857142857143
+    },
+    {
+        "index": 20,
+        "syllable_diff": 0.1897721028971029,
+        "stress_diff": 0.8008701021201021,
+        "rhyme_diff": 0.64
+    },
+    {
+        "index": 21,
+        "syllable_diff": 0.21203703703703702,
+        "stress_diff": 0.5707231040564373,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 22,
+        "syllable_diff": 0.3585841407269979,
+        "stress_diff": 0.8680261537404395,
+        "rhyme_diff": 0.09999999999999998
+    },
+    {
+        "index": 23,
+        "syllable_diff": 0.4145061728395062,
+        "stress_diff": 0.7318181818181818,
+        "rhyme_diff": 1.0
+    },
+    {
+        "index": 24,
+        "syllable_diff": 0.10884038800705467,
+        "stress_diff": 0.7821168029501363,
+        "rhyme_diff": 0.6888888888888889
+    },
+    {
+        "index": 25,
+        "syllable_diff": 0.13179193491693492,
+        "stress_diff": 0.759553872053872,
+        "rhyme_diff": 0.1333333333333333
+    },
+    {
+        "index": 26,
+        "syllable_diff": 0.19773387532008221,
+        "stress_diff": 0.8138074569109052,
+        "rhyme_diff": 0.33333333333333337
+    },
+    {
+        "index": 27,
+        "syllable_diff": 0.23691655566655567,
+        "stress_diff": 0.8070318570318571,
+        "rhyme_diff": 0.35
+    },
+    {
+        "index": 28,
+        "syllable_diff": 0.28463823757941403,
+        "stress_diff": 0.8383146265499206,
+        "rhyme_diff": 0.11999999999999988
+    },
+    {
+        "index": 29,
+        "syllable_diff": 0.15742447516641067,
+        "stress_diff": 0.6887096774193548,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 30,
+        "syllable_diff": 0.19497946497946497,
+        "stress_diff": 0.8461882561882562,
+        "rhyme_diff": 0.15999999999999992
+    },
+    {
+        "index": 31,
+        "syllable_diff": 0.15081537386224886,
+        "stress_diff": 0.8183999466628143,
+        "rhyme_diff": 0.20000000000000007
+    },
+    {
+        "index": 32,
+        "syllable_diff": 0.2571353029686363,
+        "stress_diff": 0.7180671180671181,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 33,
+        "syllable_diff": 0.40930099312452256,
+        "stress_diff": 0.8024902113137408,
+        "rhyme_diff": 0.12307692307692286
+    },
+    {
+        "index": 34,
+        "syllable_diff": 0.215752997002997,
+        "stress_diff": 0.7070143398268398,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 35,
+        "syllable_diff": 0.17653905234550396,
+        "stress_diff": 0.691293115486664,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 36,
+        "syllable_diff": 0.20835050366300367,
+        "stress_diff": 0.7355158730158731,
+        "rhyme_diff": 0.125
+    },
+    {
+        "index": 37,
+        "syllable_diff": 0.10480699855699856,
+        "stress_diff": 0.7782206682206683,
+        "rhyme_diff": 0.76
+    },
+    {
+        "index": 38,
+        "syllable_diff": 0.22325236491903158,
+        "stress_diff": 0.7492063492063492,
+        "rhyme_diff": 0.32500000000000007
+    },
+    {
+        "index": 39,
+        "syllable_diff": 0.021164021164021163,
+        "stress_diff": 0.7589775304061018,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 40,
+        "syllable_diff": 0.23650267860794177,
+        "stress_diff": 0.7113503455608718,
+        "rhyme_diff": 0.033333333333333326
+    },
+    {
+        "index": 41,
+        "syllable_diff": 0.606220689033189,
+        "stress_diff": 0.7512274184149184,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 42,
+        "syllable_diff": 0.21348642676767676,
+        "stress_diff": 0.746198593073593,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 43,
+        "syllable_diff": 0.27658402203856747,
+        "stress_diff": 0.7282493600675419,
+        "rhyme_diff": 0.17142857142857149
+    },
+    {
+        "index": 44,
+        "syllable_diff": 0.07145064238087494,
+        "stress_diff": 0.8178516573865411,
+        "rhyme_diff": 0.5666666666666667
+    },
+    {
+        "index": 45,
+        "syllable_diff": 0.17528108465608463,
+        "stress_diff": 0.7465794622044621,
+        "rhyme_diff": 0.28
+    },
+    {
+        "index": 46,
+        "syllable_diff": 0.20902249091904263,
+        "stress_diff": 0.7806585177274833,
+        "rhyme_diff": 0.20000000000000007
+    },
+    {
+        "index": 47,
+        "syllable_diff": 0.16109221466364324,
+        "stress_diff": 0.712351405208548,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 48,
+        "syllable_diff": 0.11801242236024843,
+        "stress_diff": 0.6858178053830228,
+        "rhyme_diff": 0.7333333333333334
+    },
+    {
+        "index": 49,
+        "syllable_diff": 0.11801242236024843,
+        "stress_diff": 0.6858178053830228,
+        "rhyme_diff": 0.7333333333333334
+    },
+    {
+        "index": 50,
+        "syllable_diff": 0.2937229437229437,
+        "stress_diff": 0.6924603174603174,
+        "rhyme_diff": 0.84
+    },
+    {
+        "index": 51,
+        "syllable_diff": 0.22320168257668258,
+        "stress_diff": 0.8340580715580715,
+        "rhyme_diff": 0.10000000000000009
+    },
+    {
+        "index": 52,
+        "syllable_diff": 0.20351567624294897,
+        "stress_diff": 0.8441089213816487,
+        "rhyme_diff": 0.16666666666666663
+    },
+    {
+        "index": 53,
+        "syllable_diff": 0.18497018690517142,
+        "stress_diff": 0.8553849272502523,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 54,
+        "syllable_diff": 0.2719856532356532,
+        "stress_diff": 0.7635912698412699,
+        "rhyme_diff": 0.09999999999999998
+    },
+    {
+        "index": 55,
+        "syllable_diff": 0.17450396825396824,
+        "stress_diff": 0.7750721500721501,
+        "rhyme_diff": 0.5199999999999999
+    },
+    {
+        "index": 56,
+        "syllable_diff": 0.17496889140271493,
+        "stress_diff": 0.8006530969030969,
+        "rhyme_diff": 0.31999999999999995
+    },
+    {
+        "index": 57,
+        "syllable_diff": 0.18743347338935573,
+        "stress_diff": 0.8709759787855763,
+        "rhyme_diff": 0.28
+    },
+    {
+        "index": 58,
+        "syllable_diff": 0.2169563943001443,
+        "stress_diff": 0.7182246572871573,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 59,
+        "syllable_diff": 0.2572718253968254,
+        "stress_diff": 0.7339267676767677,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 60,
+        "syllable_diff": 0.22851828726828724,
+        "stress_diff": 0.8206915306915308,
+        "rhyme_diff": 0.08000000000000007
+    },
+    {
+        "index": 61,
+        "syllable_diff": 0.14494569757727652,
+        "stress_diff": 0.7195336826915775,
+        "rhyme_diff": 0.10000000000000009
+    },
+    {
+        "index": 62,
+        "syllable_diff": 0.2211712291900971,
+        "stress_diff": 0.756946407889804,
+        "rhyme_diff": 0.55
+    },
+    {
+        "index": 63,
+        "syllable_diff": 0.2572718253968254,
+        "stress_diff": 0.7339267676767677,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 64,
+        "syllable_diff": 0.22653416028416026,
+        "stress_diff": 0.8192929292929293,
+        "rhyme_diff": 0.08000000000000007
+    },
+    {
+        "index": 65,
+        "syllable_diff": 0.09661195286195286,
+        "stress_diff": 0.8282370407370407,
+        "rhyme_diff": 0.20000000000000007
+    },
+    {
+        "index": 66,
+        "syllable_diff": 0.24596615505706412,
+        "stress_diff": 0.7708120162665617,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 67,
+        "syllable_diff": 0.2111130097972203,
+        "stress_diff": 0.7468215994531784,
+        "rhyme_diff": 0.08000000000000007
+    },
+    {
+        "index": 68,
+        "syllable_diff": 0.20412652481618,
+        "stress_diff": 0.7794869881076778,
+        "rhyme_diff": 0.29999999999999993
+    },
+    {
+        "index": 69,
+        "syllable_diff": 0.19087977994227995,
+        "stress_diff": 0.7827071366133866,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 70,
+        "syllable_diff": 0.3474330357142857,
+        "stress_diff": 0.6870783730158729,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 71,
+        "syllable_diff": 0.17157321844821846,
+        "stress_diff": 0.8148358585858586,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 72,
+        "syllable_diff": 0.2189535002035002,
+        "stress_diff": 0.6938811188811189,
+        "rhyme_diff": 0.1333333333333333
+    },
+    {
+        "index": 73,
+        "syllable_diff": 0.17295356158992523,
+        "stress_diff": 0.7371184371184372,
+        "rhyme_diff": 0.1333333333333333
+    },
+    {
+        "index": 74,
+        "syllable_diff": 0.1505952380952381,
+        "stress_diff": 0.6351190476190476,
+        "rhyme_diff": 0.040000000000000036
+    },
+    {
+        "index": 75,
+        "syllable_diff": 0.1632063492063492,
+        "stress_diff": 0.6806002886002886,
+        "rhyme_diff": 0.1499999999999999
+    },
+    {
+        "index": 76,
+        "syllable_diff": 0.11686697805118858,
+        "stress_diff": 0.7289454697349433,
+        "rhyme_diff": 0.32727272727272727
+    },
+    {
+        "index": 77,
+        "syllable_diff": 0.23752204585537917,
+        "stress_diff": 0.7935212935212935,
+        "rhyme_diff": 0.09999999999999998
+    },
+    {
+        "index": 78,
+        "syllable_diff": 0.14673659673659675,
+        "stress_diff": 0.7208994708994709,
+        "rhyme_diff": 1.0
+    },
+    {
+        "index": 79,
+        "syllable_diff": 0.09633838383838383,
+        "stress_diff": 0.6977777777777777,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 80,
+        "syllable_diff": 0.266520979020979,
+        "stress_diff": 0.6720117845117846,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 81,
+        "syllable_diff": 0.27503572816072813,
+        "stress_diff": 0.7827353202353202,
+        "rhyme_diff": 0.4666666666666667
+    },
+    {
+        "index": 82,
+        "syllable_diff": 0.39629960317460317,
+        "stress_diff": 0.7533141858141859,
+        "rhyme_diff": 0.5199999999999999
+    },
+    {
+        "index": 83,
+        "syllable_diff": 0.2866081568004645,
+        "stress_diff": 0.7991463664540588,
+        "rhyme_diff": 0.4666666666666667
+    },
+    {
+        "index": 84,
+        "syllable_diff": 0.20306735306735307,
+        "stress_diff": 0.7293182793182793,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 85,
+        "syllable_diff": 0.18075847763347763,
+        "stress_diff": 0.8394951402763903,
+        "rhyme_diff": 0.2250000000000001
+    },
+    {
+        "index": 86,
+        "syllable_diff": 0.13544372294372295,
+        "stress_diff": 0.7929292929292929,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 87,
+        "syllable_diff": 0.2043574270846998,
+        "stress_diff": 0.8237731965004693,
+        "rhyme_diff": 0.2500000000000001
+    },
+    {
+        "index": 88,
+        "syllable_diff": 0.12474932134858606,
+        "stress_diff": 0.8747403895768834,
+        "rhyme_diff": 0.10000000000000009
+    },
+    {
+        "index": 89,
+        "syllable_diff": 0.11538020060747334,
+        "stress_diff": 0.8709366391184573,
+        "rhyme_diff": 0.5272727272727273
+    },
+    {
+        "index": 90,
+        "syllable_diff": 0.1295770202020202,
+        "stress_diff": 0.90128367003367,
+        "rhyme_diff": 0.5666666666666667
+    },
+    {
+        "index": 91,
+        "syllable_diff": 0.15115584415584415,
+        "stress_diff": 0.8238290598290599,
+        "rhyme_diff": 0.16666666666666663
+    },
+    {
+        "index": 92,
+        "syllable_diff": 0.1310515873015873,
+        "stress_diff": 0.803505291005291,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 93,
+        "syllable_diff": 0.23305265195509098,
+        "stress_diff": 0.6485649174673564,
+        "rhyme_diff": 0.22499999999999998
+    },
+    {
+        "index": 94,
+        "syllable_diff": 0.1978505291005291,
+        "stress_diff": 0.7380952380952381,
+        "rhyme_diff": 0.06666666666666676
+    },
+    {
+        "index": 95,
+        "syllable_diff": 0.25535714285714284,
+        "stress_diff": 0.6961805555555556,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 96,
+        "syllable_diff": 0.16383092562867843,
+        "stress_diff": 0.6651417870518994,
+        "rhyme_diff": 0.5882352941176471
+    },
+    {
+        "index": 97,
+        "syllable_diff": 0.11350446428571428,
+        "stress_diff": 0.7546130952380953,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 98,
+        "syllable_diff": 0.1365425084175084,
+        "stress_diff": 0.7588068181818182,
+        "rhyme_diff": 0.7999999999999999
+    },
+    {
+        "index": 99,
+        "syllable_diff": 0.18868983580522042,
+        "stress_diff": 0.8196675119752044,
+        "rhyme_diff": 0.43333333333333324
+    },
+    {
+        "index": 100,
+        "syllable_diff": 0.1418154761904762,
+        "stress_diff": 0.7236043470418471,
+        "rhyme_diff": 0.8
+    },
+    {
+        "index": 101,
+        "syllable_diff": 0.18544485028860028,
+        "stress_diff": 0.7359375,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 102,
+        "syllable_diff": 0.16125090187590188,
+        "stress_diff": 0.8364038739038739,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 103,
+        "syllable_diff": 0.09318779511087202,
+        "stress_diff": 0.8329708752785676,
+        "rhyme_diff": 0.22857142857142865
+    },
+    {
+        "index": 104,
+        "syllable_diff": 0.2149202071077071,
+        "stress_diff": 0.8751318126318126,
+        "rhyme_diff": 0.9
+    },
+    {
+        "index": 105,
+        "syllable_diff": 0.11619047619047618,
+        "stress_diff": 0.6772817460317461,
+        "rhyme_diff": 0.84
+    },
+    {
+        "index": 106,
+        "syllable_diff": 0.2066813973063973,
+        "stress_diff": 0.7234328171828173,
+        "rhyme_diff": 0.48
+    },
+    {
+        "index": 107,
+        "syllable_diff": 0.15476190476190477,
+        "stress_diff": 0.7157490079365079,
+        "rhyme_diff": 0.44999999999999996
+    },
+    {
+        "index": 108,
+        "syllable_diff": 0.2960813492063492,
+        "stress_diff": 0.6578373015873016,
+        "rhyme_diff": 0.36
+    },
+    {
+        "index": 109,
+        "syllable_diff": 0.1212121212121212,
+        "stress_diff": 0.7515151515151516,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 110,
+        "syllable_diff": 0.25073164682539684,
+        "stress_diff": 0.7710513444888445,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 111,
+        "syllable_diff": 0.29321234321234324,
+        "stress_diff": 0.8265987800078709,
+        "rhyme_diff": 0.31999999999999995
+    },
+    {
+        "index": 112,
+        "syllable_diff": 0.2955898268398268,
+        "stress_diff": 0.7313888888888889,
+        "rhyme_diff": 0.040000000000000036
+    },
+    {
+        "index": 113,
+        "syllable_diff": 0.24122930941112758,
+        "stress_diff": 0.7447572629390811,
+        "rhyme_diff": 0.3142857142857143
+    },
+    {
+        "index": 114,
+        "syllable_diff": 0.21225163725163726,
+        "stress_diff": 0.7418281718281718,
+        "rhyme_diff": 0.4
+    },
+    {
+        "index": 115,
+        "syllable_diff": 0.308589349718382,
+        "stress_diff": 0.6536354326676908,
+        "rhyme_diff": 0.5199999999999999
+    },
+    {
+        "index": 116,
+        "syllable_diff": 0.1850766261602175,
+        "stress_diff": 0.851941391941392,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 117,
+        "syllable_diff": 0.26858134920634924,
+        "stress_diff": 0.7151352813852814,
+        "rhyme_diff": 0.288888888888889
+    },
+    {
+        "index": 118,
+        "syllable_diff": 0.20526227244977244,
+        "stress_diff": 0.7160691738816739,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 119,
+        "syllable_diff": 0.23072562358276644,
+        "stress_diff": 0.6395453752596609,
+        "rhyme_diff": 0.040000000000000036
+    },
+    {
+        "index": 120,
+        "syllable_diff": 0.18528528528528526,
+        "stress_diff": 0.6828614328614329,
+        "rhyme_diff": 0.43333333333333324
+    },
+    {
+        "index": 121,
+        "syllable_diff": 0.18528528528528526,
+        "stress_diff": 0.6828614328614329,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 122,
+        "syllable_diff": 0.29034992784992786,
+        "stress_diff": 0.8198308635808637,
+        "rhyme_diff": 0.06666666666666676
+    },
+    {
+        "index": 123,
+        "syllable_diff": 0.17518578643578644,
+        "stress_diff": 0.652521645021645,
+        "rhyme_diff": 0.35
+    },
+    {
+        "index": 124,
+        "syllable_diff": 0.10295075295075296,
+        "stress_diff": 0.7794668294668294,
+        "rhyme_diff": 0.4666666666666667
+    },
+    {
+        "index": 125,
+        "syllable_diff": 0.23703703703703705,
+        "stress_diff": 0.5649350649350648,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 126,
+        "syllable_diff": 0.08,
+        "stress_diff": 0.5644444444444444,
+        "rhyme_diff": 0.033333333333333326
+    },
+    {
+        "index": 127,
+        "syllable_diff": 0.20273654916512057,
+        "stress_diff": 0.7314025260453831,
+        "rhyme_diff": 0.06666666666666676
+    },
+    {
+        "index": 128,
+        "syllable_diff": 0.20736982924482925,
+        "stress_diff": 0.7588114431864432,
+        "rhyme_diff": 0.5666666666666667
+    },
+    {
+        "index": 129,
+        "syllable_diff": 0.3416666666666667,
+        "stress_diff": 0.7335542929292929,
+        "rhyme_diff": 0.16666666666666663
+    },
+    {
+        "index": 130,
+        "syllable_diff": 0.09639069264069264,
+        "stress_diff": 0.779157647907648,
+        "rhyme_diff": 0.36
+    },
+    {
+        "index": 131,
+        "syllable_diff": 0.21608229733229734,
+        "stress_diff": 0.7694536944536945,
+        "rhyme_diff": 0.7333333333333334
+    },
+    {
+        "index": 132,
+        "syllable_diff": 0.21608229733229734,
+        "stress_diff": 0.7694536944536945,
+        "rhyme_diff": 0.7333333333333334
+    },
+    {
+        "index": 133,
+        "syllable_diff": 0.18731812169312168,
+        "stress_diff": 0.7739417989417989,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 134,
+        "syllable_diff": 0.15501632870053922,
+        "stress_diff": 0.7604179446284709,
+        "rhyme_diff": 0.050000000000000044
+    },
+    {
+        "index": 135,
+        "syllable_diff": 0.22551771145521146,
+        "stress_diff": 0.707093253968254,
+        "rhyme_diff": 0.09999999999999998
+    },
+    {
+        "index": 136,
+        "syllable_diff": 0.15240049302549302,
+        "stress_diff": 0.7348364598364598,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 137,
+        "syllable_diff": 0.11553819444444444,
+        "stress_diff": 0.7260971667221667,
+        "rhyme_diff": 0.3555555555555556
+    },
+    {
+        "index": 138,
+        "syllable_diff": 0.1226143514605053,
+        "stress_diff": 0.7510212010212011,
+        "rhyme_diff": 0.4
+    },
+    {
+        "index": 139,
+        "syllable_diff": 0.17592875874125874,
+        "stress_diff": 0.7888347967392085,
+        "rhyme_diff": 0.36
+    },
+    {
+        "index": 140,
+        "syllable_diff": 0.2802944862155389,
+        "stress_diff": 0.6038410419989366,
+        "rhyme_diff": 0.13333333333333341
+    },
+    {
+        "index": 141,
+        "syllable_diff": 0.2536607142857143,
+        "stress_diff": 0.7569805194805195,
+        "rhyme_diff": 0.8
+    },
+    {
+        "index": 142,
+        "syllable_diff": 0.13490718321226797,
+        "stress_diff": 0.6567796610169492,
+        "rhyme_diff": 0.52
+    },
+    {
+        "index": 143,
+        "syllable_diff": 0.2654761904761905,
+        "stress_diff": 0.8024801587301588,
+        "rhyme_diff": 0.11428571428571421
+    },
+    {
+        "index": 144,
+        "syllable_diff": 0.24336734693877551,
+        "stress_diff": 0.8601517530088958,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 145,
+        "syllable_diff": 0.26125992063492065,
+        "stress_diff": 0.6834986772486773,
+        "rhyme_diff": 0.1333333333333333
+    },
+    {
+        "index": 146,
+        "syllable_diff": 0.15533910533910533,
+        "stress_diff": 0.6306878306878307,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 147,
+        "syllable_diff": 0.10833333333333332,
+        "stress_diff": 0.8722222222222222,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 148,
+        "syllable_diff": 0.6351343101343101,
+        "stress_diff": 0.8316239316239317,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 149,
+        "syllable_diff": 0.22732498982498983,
+        "stress_diff": 0.7405760905760905,
+        "rhyme_diff": 1.0
+    },
+    {
+        "index": 150,
+        "syllable_diff": 0.1863341972037624,
+        "stress_diff": 0.7866083192170149,
+        "rhyme_diff": 0.018181818181818077
+    },
+    {
+        "index": 151,
+        "syllable_diff": 0.1430716589807499,
+        "stress_diff": 0.8137270137270137,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 152,
+        "syllable_diff": 0.06039186507936507,
+        "stress_diff": 0.7017879689754689,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 153,
+        "syllable_diff": 0.1202876984126984,
+        "stress_diff": 0.7403273809523809,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 154,
+        "syllable_diff": 0.16435185185185186,
+        "stress_diff": 0.8074322282655616,
+        "rhyme_diff": 0.31999999999999995
+    },
+    {
+        "index": 155,
+        "syllable_diff": 0.1492416313844885,
+        "stress_diff": 0.838262531119674,
+        "rhyme_diff": 0.5199999999999999
+    },
+    {
+        "index": 156,
+        "syllable_diff": 0.2847222222222222,
+        "stress_diff": 0.8606902356902357,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 157,
+        "syllable_diff": 0.11475694444444444,
+        "stress_diff": 0.7343253968253969,
+        "rhyme_diff": 0.30000000000000004
+    },
+    {
+        "index": 158,
+        "syllable_diff": 0.2712549603174603,
+        "stress_diff": 0.7600694444444445,
+        "rhyme_diff": 0.32500000000000007
+    },
+    {
+        "index": 159,
+        "syllable_diff": 0.14515873015873015,
+        "stress_diff": 0.7592400192400193,
+        "rhyme_diff": 0.4571428571428572
+    },
+    {
+        "index": 160,
+        "syllable_diff": 0.1831569664902998,
+        "stress_diff": 0.7294091710758377,
+        "rhyme_diff": 0.3333333333333335
+    },
+    {
+        "index": 161,
+        "syllable_diff": 0.24482142857142858,
+        "stress_diff": 0.7784848484848486,
+        "rhyme_diff": 0.040000000000000036
+    },
+    {
+        "index": 162,
+        "syllable_diff": 0.1996151996151996,
+        "stress_diff": 0.8171717171717172,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 163,
+        "syllable_diff": 0.14718727453102454,
+        "stress_diff": 0.8314622877122877,
+        "rhyme_diff": 0.09999999999999998
+    },
+    {
+        "index": 164,
+        "syllable_diff": 0.11077666546416547,
+        "stress_diff": 0.7875901875901876,
+        "rhyme_diff": 0.9333333333333333
+    },
+    {
+        "index": 165,
+        "syllable_diff": 0.11560696248196248,
+        "stress_diff": 0.7668019480519481,
+        "rhyme_diff": 1.0
+    },
+    {
+        "index": 166,
+        "syllable_diff": 0.2176817626817627,
+        "stress_diff": 0.7557738095238096,
+        "rhyme_diff": 0.6799999999999999
+    },
+    {
+        "index": 167,
+        "syllable_diff": 0.21842181387635934,
+        "stress_diff": 0.7565175565175566,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 168,
+        "syllable_diff": 0.19019423558897242,
+        "stress_diff": 0.7946963854858592,
+        "rhyme_diff": 1.0
+    },
+    {
+        "index": 169,
+        "syllable_diff": 0.20640432098765432,
+        "stress_diff": 0.7103615520282187,
+        "rhyme_diff": 0.31999999999999995
+    },
+    {
+        "index": 170,
+        "syllable_diff": 0.15262746512746514,
+        "stress_diff": 0.7503631553631553,
+        "rhyme_diff": 0.4
+    },
+    {
+        "index": 171,
+        "syllable_diff": 0.19278900112233444,
+        "stress_diff": 0.6731922398589065,
+        "rhyme_diff": 0.09999999999999998
+    },
+    {
+        "index": 172,
+        "syllable_diff": 0.10651905964405965,
+        "stress_diff": 0.7509469696969697,
+        "rhyme_diff": 0.7333333333333334
+    },
+    {
+        "index": 173,
+        "syllable_diff": 0.16973067915690865,
+        "stress_diff": 0.7309642088330612,
+        "rhyme_diff": 0.5166666666666666
+    },
+    {
+        "index": 174,
+        "syllable_diff": 0.19833573833573834,
+        "stress_diff": 0.7164794464794465,
+        "rhyme_diff": 0.05714285714285716
+    },
+    {
+        "index": 175,
+        "syllable_diff": 0.19722222222222222,
+        "stress_diff": 0.7135975135975137,
+        "rhyme_diff": 0.06666666666666676
+    },
+    {
+        "index": 176,
+        "syllable_diff": 0.2554093567251462,
+        "stress_diff": 0.73056884635832,
+        "rhyme_diff": 0.20000000000000007
+    },
+    {
+        "index": 177,
+        "syllable_diff": 0.2554093567251462,
+        "stress_diff": 0.73056884635832,
+        "rhyme_diff": 0.20000000000000007
+    },
+    {
+        "index": 178,
+        "syllable_diff": 0.2528735632183908,
+        "stress_diff": 0.7567323481116585,
+        "rhyme_diff": 0.11999999999999988
+    },
+    {
+        "index": 179,
+        "syllable_diff": 0.2277222777222777,
+        "stress_diff": 0.7058778828009598,
+        "rhyme_diff": 0.050000000000000044
+    },
+    {
+        "index": 180,
+        "syllable_diff": 0.13296547202797204,
+        "stress_diff": 0.8423451548451548,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 181,
+        "syllable_diff": 0.19232804232804232,
+        "stress_diff": 0.7052609427609429,
+        "rhyme_diff": 0.4800000000000001
+    },
+    {
+        "index": 182,
+        "syllable_diff": 0.16270786092214665,
+        "stress_diff": 0.662387480244623,
+        "rhyme_diff": 0.15000000000000002
+    },
+    {
+        "index": 183,
+        "syllable_diff": 0.17949988607883346,
+        "stress_diff": 0.7122788030682767,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 184,
+        "syllable_diff": 0.27496392496392497,
+        "stress_diff": 0.7783783556510829,
+        "rhyme_diff": 0.08571428571428563
+    },
+    {
+        "index": 185,
+        "syllable_diff": 0.11378968253968255,
+        "stress_diff": 0.727120696763554,
+        "rhyme_diff": 0.2666666666666666
+    },
+    {
+        "index": 186,
+        "syllable_diff": 0.17785928063705841,
+        "stress_diff": 0.852655369322036,
+        "rhyme_diff": 0.1333333333333333
+    },
+    {
+        "index": 187,
+        "syllable_diff": 0.2213474025974026,
+        "stress_diff": 0.7023245851370852,
+        "rhyme_diff": 0.29999999999999993
+    },
+    {
+        "index": 188,
+        "syllable_diff": 0.3165266106442577,
+        "stress_diff": 0.7953068173656409,
+        "rhyme_diff": 0.32500000000000007
+    },
+    {
+        "index": 189,
+        "syllable_diff": 0.17799823633156966,
+        "stress_diff": 0.9447063224841002,
+        "rhyme_diff": 0.06153846153846154
+    },
+    {
+        "index": 190,
+        "syllable_diff": 0.28055555555555556,
+        "stress_diff": 0.8966707366707367,
+        "rhyme_diff": 0.10000000000000009
+    },
+    {
+        "index": 191,
+        "syllable_diff": 0.3088235294117647,
+        "stress_diff": 0.776890756302521,
+        "rhyme_diff": 0.7333333333333334
+    },
+    {
+        "index": 192,
+        "syllable_diff": 0.20293292566019838,
+        "stress_diff": 0.8118477185322105,
+        "rhyme_diff": 0.7142857142857143
+    },
+    {
+        "index": 193,
+        "syllable_diff": 0.3114316239316239,
+        "stress_diff": 0.7029137529137529,
+        "rhyme_diff": 0.06666666666666676
+    },
+    {
+        "index": 194,
+        "syllable_diff": 0.1233974358974359,
+        "stress_diff": 0.8484848484848485,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 195,
+        "syllable_diff": 0.16401619214119215,
+        "stress_diff": 0.8133570133570134,
+        "rhyme_diff": 0.4666666666666667
+    },
+    {
+        "index": 196,
+        "syllable_diff": 0.11045574795574796,
+        "stress_diff": 0.7993719243719244,
+        "rhyme_diff": 0.4666666666666667
+    },
+    {
+        "index": 197,
+        "syllable_diff": 0.2216889880952381,
+        "stress_diff": 0.7164434523809524,
+        "rhyme_diff": 0.30000000000000004
+    },
+    {
+        "index": 198,
+        "syllable_diff": 0.2392288961038961,
+        "stress_diff": 0.7576334776334777,
+        "rhyme_diff": 0.08000000000000007
+    },
+    {
+        "index": 199,
+        "syllable_diff": 0.1864996114996115,
+        "stress_diff": 0.7694638694638695,
+        "rhyme_diff": 0.25
+    },
+    {
+        "index": 200,
+        "syllable_diff": 0.18706465492179777,
+        "stress_diff": 0.8340802055087769,
+        "rhyme_diff": 0.12727272727272732
+    },
+    {
+        "index": 201,
+        "syllable_diff": 0.24667658730158729,
+        "stress_diff": 0.7501924001924002,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 202,
+        "syllable_diff": 0.22643557422969188,
+        "stress_diff": 0.7330780330780331,
+        "rhyme_diff": 0.15999999999999992
+    },
+    {
+        "index": 203,
+        "syllable_diff": 0.3466853408029879,
+        "stress_diff": 0.7548603357426886,
+        "rhyme_diff": 0.43333333333333324
+    },
+    {
+        "index": 204,
+        "syllable_diff": 0.44877372284779693,
+        "stress_diff": 0.731493403715626,
+        "rhyme_diff": 0.4125
+    },
+    {
+        "index": 205,
+        "syllable_diff": 0.17526455026455026,
+        "stress_diff": 0.6958612815755673,
+        "rhyme_diff": 0.17142857142857149
+    },
+    {
+        "index": 206,
+        "syllable_diff": 0.29734391534391535,
+        "stress_diff": 0.6890860990860991,
+        "rhyme_diff": 1.0
+    },
+    {
+        "index": 207,
+        "syllable_diff": 0.34291979949874685,
+        "stress_diff": 0.8000835421888054,
+        "rhyme_diff": 0.10000000000000009
+    },
+    {
+        "index": 208,
+        "syllable_diff": 0.31523244023244024,
+        "stress_diff": 0.7646445146445147,
+        "rhyme_diff": 0.5199999999999999
+    },
+    {
+        "index": 209,
+        "syllable_diff": 0.06875,
+        "stress_diff": 0.8347943722943723,
+        "rhyme_diff": 0.25
+    },
+    {
+        "index": 210,
+        "syllable_diff": 0.2163440725940726,
+        "stress_diff": 0.7703673641173642,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 211,
+        "syllable_diff": 0.12253968253968253,
+        "stress_diff": 0.7478980278980278,
+        "rhyme_diff": 0.6799999999999999
+    },
+    {
+        "index": 212,
+        "syllable_diff": 0.2466269841269841,
+        "stress_diff": 0.7784536643911644,
+        "rhyme_diff": 0.20000000000000007
+    },
+    {
+        "index": 213,
+        "syllable_diff": 0.10411931818181817,
+        "stress_diff": 0.8380681818181819,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 214,
+        "syllable_diff": 0.15000000000000002,
+        "stress_diff": 0.6738095238095239,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 215,
+        "syllable_diff": 0.27280801209372635,
+        "stress_diff": 0.6741118669690098,
+        "rhyme_diff": 0.06666666666666676
+    },
+    {
+        "index": 216,
+        "syllable_diff": 0.6799999999999999,
+        "stress_diff": 0.6266666666666667,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 217,
+        "syllable_diff": 0.14649809255072413,
+        "stress_diff": 0.8194622628833155,
+        "rhyme_diff": 0.15000000000000002
+    },
+    {
+        "index": 218,
+        "syllable_diff": 0.1944179894179894,
+        "stress_diff": 0.7215824915824915,
+        "rhyme_diff": 0.05714285714285716
+    },
+    {
+        "index": 219,
+        "syllable_diff": 0.172005772005772,
+        "stress_diff": 0.6753968253968254,
+        "rhyme_diff": 0.11428571428571443
+    },
+    {
+        "index": 220,
+        "syllable_diff": 0.21494588744588744,
+        "stress_diff": 0.7292316017316017,
+        "rhyme_diff": 0.08000000000000007
+    },
+    {
+        "index": 221,
+        "syllable_diff": 0.2910099453085878,
+        "stress_diff": 0.8406747475752001,
+        "rhyme_diff": 0.18461538461538451
+    },
+    {
+        "index": 222,
+        "syllable_diff": 0.16964285714285715,
+        "stress_diff": 0.8027777777777778,
+        "rhyme_diff": 0.24
+    },
+    {
+        "index": 223,
+        "syllable_diff": 0.21130588987731846,
+        "stress_diff": 0.7764790764790765,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 224,
+        "syllable_diff": 0.1919071669071669,
+        "stress_diff": 0.7695526695526695,
+        "rhyme_diff": 0.36
+    },
+    {
+        "index": 225,
+        "syllable_diff": 0.11956589706589706,
+        "stress_diff": 0.7776536426536427,
+        "rhyme_diff": 0.5199999999999999
+    },
+    {
+        "index": 226,
+        "syllable_diff": 0.13683172887718342,
+        "stress_diff": 0.7945821854912765,
+        "rhyme_diff": 0.033333333333333326
+    },
+    {
+        "index": 227,
+        "syllable_diff": 0.11980554168054168,
+        "stress_diff": 0.7975459725459726,
+        "rhyme_diff": 0.033333333333333326
+    },
+    {
+        "index": 228,
+        "syllable_diff": 0.2712443310657596,
+        "stress_diff": 0.7825628736343022,
+        "rhyme_diff": 0.1499999999999999
+    },
+    {
+        "index": 229,
+        "syllable_diff": 0.17452346041055716,
+        "stress_diff": 0.9713221357128277,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 230,
+        "syllable_diff": 0.1619047619047619,
+        "stress_diff": 0.7952719502719503,
+        "rhyme_diff": 0.8
+    },
+    {
+        "index": 231,
+        "syllable_diff": 0.20824915824915824,
+        "stress_diff": 0.6482924482924484,
+        "rhyme_diff": 0.11999999999999988
+    },
+    {
+        "index": 232,
+        "syllable_diff": 0.1274404761904762,
+        "stress_diff": 0.6929329004329005,
+        "rhyme_diff": 0.09999999999999998
+    },
+    {
+        "index": 233,
+        "syllable_diff": 0.11929390054390054,
+        "stress_diff": 0.8111985236985237,
+        "rhyme_diff": 0.35
+    },
+    {
+        "index": 234,
+        "syllable_diff": 0.11976010101010102,
+        "stress_diff": 0.79488381988382,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 235,
+        "syllable_diff": 0.3036324786324786,
+        "stress_diff": 0.7236374736374735,
+        "rhyme_diff": 0.16666666666666663
+    },
+    {
+        "index": 236,
+        "syllable_diff": 0.078125,
+        "stress_diff": 0.85,
+        "rhyme_diff": 0.5
+    },
+    {
+        "index": 237,
+        "syllable_diff": 0.20728937728937727,
+        "stress_diff": 0.6964199048814433,
+        "rhyme_diff": 0.45999999999999996
+    },
+    {
+        "index": 238,
+        "syllable_diff": 0.19811507936507938,
+        "stress_diff": 0.7306709956709957,
+        "rhyme_diff": 0.1200000000000001
+    },
+    {
+        "index": 239,
+        "syllable_diff": 0.17012265512265512,
+        "stress_diff": 0.8137518037518038,
+        "rhyme_diff": 0.15999999999999992
+    },
+    {
+        "index": 240,
+        "syllable_diff": 0.14416433239962653,
+        "stress_diff": 0.7300526271114507,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 241,
+        "syllable_diff": 0.25793521293521293,
+        "stress_diff": 0.7526368076368076,
+        "rhyme_diff": 0.30000000000000004
+    },
+    {
+        "index": 242,
+        "syllable_diff": 0.1255952380952381,
+        "stress_diff": 0.6784887566137565,
+        "rhyme_diff": 0.7714285714285714
+    },
+    {
+        "index": 243,
+        "syllable_diff": 0.19128678860821718,
+        "stress_diff": 0.8422571476142905,
+        "rhyme_diff": 0.1428571428571429
+    },
+    {
+        "index": 244,
+        "syllable_diff": 0.186241662378026,
+        "stress_diff": 0.6983178437723891,
+        "rhyme_diff": 0.1499999999999999
+    },
+    {
+        "index": 245,
+        "syllable_diff": 0.11524943310657597,
+        "stress_diff": 0.7612554112554113,
+        "rhyme_diff": 0.15000000000000002
+    },
+    {
+        "index": 246,
+        "syllable_diff": 0.1654761904761905,
+        "stress_diff": 0.5971428571428572,
+        "rhyme_diff": 0.033333333333333326
+    },
+    {
+        "index": 247,
+        "syllable_diff": 0.1654761904761905,
+        "stress_diff": 0.5971428571428572,
+        "rhyme_diff": 0.033333333333333326
+    },
+    {
+        "index": 248,
+        "syllable_diff": 0.12976190476190477,
+        "stress_diff": 0.6777697611030944,
+        "rhyme_diff": 0.4666666666666667
+    },
+    {
+        "index": 249,
+        "syllable_diff": 0.27958754208754205,
+        "stress_diff": 0.62010582010582,
+        "rhyme_diff": 0.4666666666666667
+    },
+    {
+        "index": 250,
+        "syllable_diff": 0.375875350140056,
+        "stress_diff": 0.7574725927667104,
+        "rhyme_diff": 0.20000000000000007
+    },
+    {
+        "index": 251,
+        "syllable_diff": 0.2706403659233848,
+        "stress_diff": 0.7409436475474211,
+        "rhyme_diff": 0.3500000000000001
+    },
+    {
+        "index": 252,
+        "syllable_diff": 0.1644345238095238,
+        "stress_diff": 0.7655257936507937,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 253,
+        "syllable_diff": 0.12229020979020978,
+        "stress_diff": 0.8559829059829059,
+        "rhyme_diff": 0.4
+    },
+    {
+        "index": 254,
+        "syllable_diff": 0.232420183982684,
+        "stress_diff": 0.9596757409257409,
+        "rhyme_diff": 0.1499999999999999
+    },
+    {
+        "index": 255,
+        "syllable_diff": 0.1974206349206349,
+        "stress_diff": 0.8390782828282828,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 256,
+        "syllable_diff": 0.24917249417249415,
+        "stress_diff": 0.8153787878787879,
+        "rhyme_diff": 0.20000000000000007
+    },
+    {
+        "index": 257,
+        "syllable_diff": 0.3402727323181869,
+        "stress_diff": 0.8350344619729646,
+        "rhyme_diff": 0.29999999999999993
+    },
+    {
+        "index": 258,
+        "syllable_diff": 0.30698370257193786,
+        "stress_diff": 0.7414778032425091,
+        "rhyme_diff": 0.025000000000000022
+    },
+    {
+        "index": 259,
+        "syllable_diff": 0.16154040404040404,
+        "stress_diff": 0.7741666666666667,
+        "rhyme_diff": 0.28
+    },
+    {
+        "index": 260,
+        "syllable_diff": 0.3355354136604136,
+        "stress_diff": 0.9050955580367345,
+        "rhyme_diff": 0.42500000000000004
+    },
+    {
+        "index": 261,
+        "syllable_diff": 0.18863185425685425,
+        "stress_diff": 0.7134589947089947,
+        "rhyme_diff": 0.10000000000000009
+    },
+    {
+        "index": 262,
+        "syllable_diff": 0.2476407976407976,
+        "stress_diff": 0.8409878409878411,
+        "rhyme_diff": 0.11428571428571443
+    },
+    {
+        "index": 263,
+        "syllable_diff": 0.36388507326007324,
+        "stress_diff": 0.9275932400932401,
+        "rhyme_diff": 0.2666666666666667
+    },
+    {
+        "index": 264,
+        "syllable_diff": 0.20615680615680618,
+        "stress_diff": 0.766951566951567,
+        "rhyme_diff": 0.4
+    },
+    {
+        "index": 265,
+        "syllable_diff": 0.3000047297473768,
+        "stress_diff": 0.8464530670567822,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 266,
+        "syllable_diff": 0.28132114798781466,
+        "stress_diff": 0.6478536895203562,
+        "rhyme_diff": 0.2857142857142857
+    },
+    {
+        "index": 267,
+        "syllable_diff": 0.14212962962962963,
+        "stress_diff": 0.8091045528545528,
+        "rhyme_diff": 0.4666666666666667
+    },
+    {
+        "index": 268,
+        "syllable_diff": 0.28015708571264125,
+        "stress_diff": 0.8500654695099139,
+        "rhyme_diff": 0.24444444444444435
+    },
+    {
+        "index": 269,
+        "syllable_diff": 0.10235690235690235,
+        "stress_diff": 0.6704425204425204,
+        "rhyme_diff": 0.4
+    },
+    {
+        "index": 270,
+        "syllable_diff": 0.16049933862433863,
+        "stress_diff": 0.7767857142857143,
+        "rhyme_diff": 0.2333333333333334
+    },
+    {
+        "index": 271,
+        "syllable_diff": 0.24322916666666666,
+        "stress_diff": 0.647420634920635,
+        "rhyme_diff": 0.050000000000000044
+    },
+    {
+        "index": 272,
+        "syllable_diff": 0.10868439158880334,
+        "stress_diff": 0.8376737981517394,
+        "rhyme_diff": 0.1333333333333333
+    },
+    {
+        "index": 273,
+        "syllable_diff": 0.20574555074555076,
+        "stress_diff": 0.7336315536315536,
+        "rhyme_diff": 0.1499999999999999
+    },
+    {
+        "index": 274,
+        "syllable_diff": 0.22360587441232602,
+        "stress_diff": 0.6768491365265559,
+        "rhyme_diff": 0.2666666666666667
+    },
+    {
+        "index": 275,
+        "syllable_diff": 0.125,
+        "stress_diff": 0.7041666666666666,
+        "rhyme_diff": 0.5
+    },
+    {
+        "index": 276,
+        "syllable_diff": 0.2023214285714286,
+        "stress_diff": 0.674047619047619,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 277,
+        "syllable_diff": 0.13578042328042328,
+        "stress_diff": 0.8251653439153439,
+        "rhyme_diff": 0.15999999999999992
+    },
+    {
+        "index": 278,
+        "syllable_diff": 0.14288507191732996,
+        "stress_diff": 0.6755498981305432,
+        "rhyme_diff": 0.050000000000000044
+    },
+    {
+        "index": 279,
+        "syllable_diff": 0.15663082437275985,
+        "stress_diff": 0.7383714851456786,
+        "rhyme_diff": 0.20000000000000007
+    },
+    {
+        "index": 280,
+        "syllable_diff": 0.14166370028438993,
+        "stress_diff": 0.756107111279525,
+        "rhyme_diff": 0.2666666666666666
+    },
+    {
+        "index": 281,
+        "syllable_diff": 0.21437963165210666,
+        "stress_diff": 0.7795105630069705,
+        "rhyme_diff": 0.07499999999999996
+    },
+    {
+        "index": 282,
+        "syllable_diff": 0.18670166638916638,
+        "stress_diff": 0.820091366966367,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 283,
+        "syllable_diff": 0.30668402777777776,
+        "stress_diff": 0.8331101190476191,
+        "rhyme_diff": 0.8
+    },
+    {
+        "index": 284,
+        "syllable_diff": 0.11470701016155561,
+        "stress_diff": 0.8131444313262495,
+        "rhyme_diff": 0.31999999999999995
+    },
+    {
+        "index": 285,
+        "syllable_diff": 0.2702627619294286,
+        "stress_diff": 0.7863778197111531,
+        "rhyme_diff": 0.1499999999999999
+    },
+    {
+        "index": 286,
+        "syllable_diff": 0.30935672514619883,
+        "stress_diff": 0.704901141743247,
+        "rhyme_diff": 0.22857142857142865
+    },
+    {
+        "index": 287,
+        "syllable_diff": 0.2590844671201814,
+        "stress_diff": 0.6387613378684807,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 288,
+        "syllable_diff": 0.12218241528586357,
+        "stress_diff": 0.701205882240365,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 289,
+        "syllable_diff": 0.14297619047619048,
+        "stress_diff": 0.7084126984126984,
+        "rhyme_diff": 0.32000000000000006
+    },
+    {
+        "index": 290,
+        "syllable_diff": 0.14851190476190476,
+        "stress_diff": 0.7157490079365079,
+        "rhyme_diff": 0.35
+    },
+    {
+        "index": 291,
+        "syllable_diff": 0.20793997668997669,
+        "stress_diff": 0.8702002145887595,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 292,
+        "syllable_diff": 0.2585813492063492,
+        "stress_diff": 0.7062830687830688,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 293,
+        "syllable_diff": 0.2643402296628103,
+        "stress_diff": 0.7486082018340083,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 294,
+        "syllable_diff": 0.21163194444444444,
+        "stress_diff": 0.8009365634365635,
+        "rhyme_diff": 0.5333333333333334
+    },
+    {
+        "index": 295,
+        "syllable_diff": 0.1701952854507034,
+        "stress_diff": 0.831996336996337,
+        "rhyme_diff": 0.11999999999999988
+    },
+    {
+        "index": 296,
+        "syllable_diff": 0.10223050758765044,
+        "stress_diff": 0.7461530532959104,
+        "rhyme_diff": 0.1499999999999999
+    },
+    {
+        "index": 297,
+        "syllable_diff": 0.3483068783068783,
+        "stress_diff": 0.6248412698412699,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 298,
+        "syllable_diff": 0.2103975018037518,
+        "stress_diff": 0.7654017857142857,
+        "rhyme_diff": 0.3999999999999999
+    },
+    {
+        "index": 299,
+        "syllable_diff": 0.12772280629423488,
+        "stress_diff": 0.7220813577956435,
+        "rhyme_diff": 0.15999999999999992
+    },
+    {
+        "index": 300,
+        "syllable_diff": 0.12965888278388277,
+        "stress_diff": 0.7911401098901099,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 301,
+        "syllable_diff": 0.09917929292929292,
+        "stress_diff": 0.8085248085248086,
+        "rhyme_diff": 0.11999999999999988
+    },
+    {
+        "index": 302,
+        "syllable_diff": 0.18798057101628532,
+        "stress_diff": 0.8019936412793556,
+        "rhyme_diff": 0.3666666666666667
+    },
+    {
+        "index": 303,
+        "syllable_diff": 0.323282141139284,
+        "stress_diff": 0.8274815131957989,
+        "rhyme_diff": 0.16666666666666663
+    },
+    {
+        "index": 304,
+        "syllable_diff": 0.12708333333333333,
+        "stress_diff": 0.7007575757575757,
+        "rhyme_diff": 0.06666666666666676
+    },
+    {
+        "index": 305,
+        "syllable_diff": 0.20711718836718837,
+        "stress_diff": 0.7685127372627373,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 306,
+        "syllable_diff": 0.1925309644059644,
+        "stress_diff": 0.7646344396344397,
+        "rhyme_diff": 0.13333333333333341
+    },
+    {
+        "index": 307,
+        "syllable_diff": 0.17365079365079367,
+        "stress_diff": 0.772005772005772,
+        "rhyme_diff": 0.1200000000000001
+    },
+    {
+        "index": 308,
+        "syllable_diff": 0.28964285714285715,
+        "stress_diff": 0.7214141414141414,
+        "rhyme_diff": 0.040000000000000036
+    },
+    {
+        "index": 309,
+        "syllable_diff": 0.40246598639455783,
+        "stress_diff": 0.9503968253968254,
+        "rhyme_diff": 0.1499999999999999
+    },
+    {
+        "index": 310,
+        "syllable_diff": 0.06578144078144078,
+        "stress_diff": 0.7631257631257631,
+        "rhyme_diff": 0.1333333333333333
+    },
+    {
+        "index": 311,
+        "syllable_diff": 0.302125850340136,
+        "stress_diff": 0.7320897356611642,
+        "rhyme_diff": 0.1428571428571429
+    },
+    {
+        "index": 312,
+        "syllable_diff": 0.17786458333333333,
+        "stress_diff": 0.7353400072150071,
+        "rhyme_diff": 0.44999999999999996
+    },
+    {
+        "index": 313,
+        "syllable_diff": 0.25738636363636364,
+        "stress_diff": 0.8511127761127761,
+        "rhyme_diff": 0.16666666666666663
+    },
+    {
+        "index": 314,
+        "syllable_diff": 0.313967143967144,
+        "stress_diff": 0.7557665945165946,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 315,
+        "syllable_diff": 0.23797949735449733,
+        "stress_diff": 0.7073412698412698,
+        "rhyme_diff": 0.4666666666666667
+    },
+    {
+        "index": 316,
+        "syllable_diff": 0.16290218790218788,
+        "stress_diff": 0.7324616824616825,
+        "rhyme_diff": 0.65
+    },
+    {
+        "index": 317,
+        "syllable_diff": 0.11668470418470418,
+        "stress_diff": 0.7986827986827987,
+        "rhyme_diff": 0.033333333333333326
+    },
+    {
+        "index": 318,
+        "syllable_diff": 0.2934656084656085,
+        "stress_diff": 0.6891991341991341,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 319,
+        "syllable_diff": 0.2374338624338624,
+        "stress_diff": 0.9027777777777778,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 320,
+        "syllable_diff": 0.28125,
+        "stress_diff": 0.7581168831168832,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 321,
+        "syllable_diff": 0.15727964165464164,
+        "stress_diff": 0.6809794372294373,
+        "rhyme_diff": 1.0
+    },
+    {
+        "index": 322,
+        "syllable_diff": 0.1841269841269841,
+        "stress_diff": 0.9365079365079365,
+        "rhyme_diff": 0.0
+    },
+    {
+        "index": 323,
+        "syllable_diff": 0.18467120181405897,
+        "stress_diff": 0.7452937538651825,
+        "rhyme_diff": 0.37142857142857133
+    },
+    {
+        "index": 324,
+        "syllable_diff": 0.3159722222222222,
+        "stress_diff": 0.7779040404040404,
+        "rhyme_diff": 0.3666666666666667
+    },
+    {
+        "index": 325,
+        "syllable_diff": 0.09496555032269317,
+        "stress_diff": 0.9073696145124717,
+        "rhyme_diff": 0.033333333333333326
+    },
+    {
+        "index": 326,
+        "syllable_diff": 0.18931283993783993,
+        "stress_diff": 0.8044950882450883,
+        "rhyme_diff": 0.11999999999999988
+    },
+    {
+        "index": 327,
+        "syllable_diff": 0.08819444444444445,
+        "stress_diff": 0.7500841750841751,
+        "rhyme_diff": 0.1333333333333333
+    },
+    {
+        "index": 328,
+        "syllable_diff": 0.2742985297530752,
+        "stress_diff": 0.8345584065370162,
+        "rhyme_diff": 0.44999999999999996
+    },
+    {
+        "index": 329,
+        "syllable_diff": 0.27566964285714285,
+        "stress_diff": 0.6659226190476191,
+        "rhyme_diff": 0.8
+    },
+    {
+        "index": 330,
+        "syllable_diff": 0.14270833333333333,
+        "stress_diff": 0.6715525793650794,
+        "rhyme_diff": 0.6
+    },
+    {
+        "index": 331,
+        "syllable_diff": 0.24422123015873015,
+        "stress_diff": 0.8238053613053613,
+        "rhyme_diff": 0.1499999999999999
+    },
+    {
+        "index": 332,
+        "syllable_diff": 0.3029330572808834,
+        "stress_diff": 0.7697891480500176,
+        "rhyme_diff": 0.3600000000000001
+    },
+    {
+        "index": 333,
+        "syllable_diff": 0.296972846972847,
+        "stress_diff": 0.8532595617734937,
+        "rhyme_diff": 0.42000000000000004
+    },
+    {
+        "index": 334,
+        "syllable_diff": 0.15152529761904762,
+        "stress_diff": 0.7491567460317461,
+        "rhyme_diff": 1.0
+    },
+    {
+        "index": 335,
+        "syllable_diff": 0.16774597951068537,
+        "stress_diff": 0.7339954163483575,
+        "rhyme_diff": 0.1499999999999999
+    },
+    {
+        "index": 336,
+        "syllable_diff": 0.22126623376623375,
+        "stress_diff": 0.7556773088023088,
+        "rhyme_diff": 0.8
+    },
+    {
+        "index": 337,
+        "syllable_diff": 0.125,
+        "stress_diff": 0.5916666666666667,
+        "rhyme_diff": 0.19999999999999996
+    },
+    {
+        "index": 338,
+        "syllable_diff": 0.17904341029341028,
+        "stress_diff": 0.8005050505050505,
+        "rhyme_diff": 0.5999999999999999
+    },
+    {
+        "index": 339,
+        "syllable_diff": 0.32045304232804234,
+        "stress_diff": 0.7396073833573833,
+        "rhyme_diff": 0.19999999999999984
+    },
+    {
+        "index": 340,
+        "syllable_diff": 0.2739663114663115,
+        "stress_diff": 0.7452744225471498,
+        "rhyme_diff": 0.11999999999999988
+    },
+    {
+        "index": 341,
+        "syllable_diff": 0.07354497354497355,
+        "stress_diff": 0.7462138390709819,
+        "rhyme_diff": 0.16000000000000014
+    }
+]
