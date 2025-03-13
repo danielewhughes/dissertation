@@ -210,7 +210,7 @@ def check_partial_match(ref, test):
 if __name__ == '__main__':
 
     # Step 1: Open and read the file
-    with open('rhyme_files/originals.txt', 'r', encoding='utf-8') as file1, open('rhyme_files/googles.txt', 'r', encoding='utf-8') as file2:
+    with open('rhyme_files/originals.txt', 'r', encoding='utf-8') as file1, open('rhyme_files/references.txt', 'r', encoding='utf-8') as file2:
         references = file1.read()
         hypotheses = file2.read()
     # Step 2: Split the content by the '*' delimiter
@@ -218,7 +218,7 @@ if __name__ == '__main__':
     hyp_songs = hypotheses.split('*')
 
     # Ensure JSON file exists
-    json_path = "results_by_song/google.json"
+    json_path = "results_by_song/reference.json"
     if os.path.exists(json_path) and os.path.getsize(json_path) > 0:
         with open(json_path, "r", encoding="utf-8") as file:
             try:
@@ -266,5 +266,5 @@ if __name__ == '__main__':
         else:
             song_objects[i]["rhyme_diff"] =  1 - (score/rhyme_count)
 
-    with open("results_by_song/googl.json", "w", encoding="utf-8") as file:
+    with open(json_path, "w", encoding="utf-8") as file:
         json.dump(song_objects, file, indent=4, ensure_ascii=False)

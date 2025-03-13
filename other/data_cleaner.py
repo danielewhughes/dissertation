@@ -52,5 +52,5 @@ def clean_and_align_lyrics(input_file, output_file):
 
 # Usage
 input_file = 'en-es.json'  # Replace with the path to your input file
-output_file = 'en-es-new.json'  # Replace with desired output file name
+output_file = 'clean_songs.json'  # Replace with desired output file name
 clean_and_align_lyrics(input_file, output_file)

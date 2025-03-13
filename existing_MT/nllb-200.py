@@ -1,44 +1,82 @@
 import json
-#import torch
+import threading
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+from tqdm import tqdm  # Progress bar library
+import torch  # For GPU handling
 
 MODEL_NAME = "facebook/nllb-200-distilled-600M"
+LANG_ID = "spa_Latn"  # Spanish language token
+
+# Device setup (use GPU if available)
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+def load_model_and_tokenizer():
+    """Load the model and tokenizer inside each thread to avoid sharing state."""
+    TOKENIZER = AutoTokenizer.from_pretrained(MODEL_NAME)
+    MODEL = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME).to(device)
+    return TOKENIZER, MODEL
+
+def translate_texts(texts, TOKENIZER, MODEL):
+    """Function to translate a list of texts."""
+    # Tokenize the input batch
+    inputs = TOKENIZER(texts, return_tensors="pt", padding=True, truncation=True).to(device)
+
+    # Use torch.no_grad() to avoid unnecessary gradient computation during inference
+    with torch.no_grad():
+        # Generate translations
+        outputs = MODEL.generate(**inputs, max_length=512, forced_bos_token_id=TOKENIZER.convert_tokens_to_ids(LANG_ID))
+    
+    # Decode translations
+    translated_batch = TOKENIZER.batch_decode(outputs, skip_special_tokens=True)
+    return translated_batch
+
+def process_batch(batch, results, idx):
+    """Worker function to process a batch of text in a separate thread."""
+    # Load model and tokenizer in each thread to avoid resource conflicts
+    TOKENIZER, MODEL = load_model_and_tokenizer()
+    translated_batch = translate_texts(batch, TOKENIZER, MODEL)
+    results[idx] = translated_batch
 
 def main():
-    # Load the JSON file
-    with open("/Users/danielhughes/Documents/College/Fourth-Year/Capstone/Dissertation/data_files/en-es.json", "r", encoding="utf-8") as f:
-        songs = json.load(f)
+    input_file = "/Users/danielhughes/Documents/College/Fourth-Year/Capstone/Dissertation/es_txt_files/originals.txt"
+    output_file = "/Users/danielhughes/Documents/College/Fourth-Year/Capstone/Dissertation/es_txt_files/nllbs.txt"
 
-    # Load the tokenizer and model
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-    model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
+    # Load the file
+    with open(input_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
 
-    # Get the target language ID
-    lang_id = tokenizer.convert_tokens_to_ids("spa_Latn") #Irish
+    BATCH_SIZE = 25  # Adjust batch size based on memory availability
 
+    print(f"Total lines to translate: {len(lines)}")
 
-    BATCH_SIZE = 16  # Adjust batch size based on memory availability
+    # Split lines into batches
+    batches = [lines[i:i + BATCH_SIZE] for i in range(0, len(lines), BATCH_SIZE)]
 
-    for i, song in enumerate(songs):    
-        original_lyrics = song.get("original-lyrics", "")
-        source_text = original_lyrics.split("\n")
-    
-        translated_lines = []
-        for j in range(0, len(source_text), BATCH_SIZE):
-            batch = source_text[j : j + BATCH_SIZE]
-            inputs = tokenizer(batch, return_tensors="pt", padding=True, truncation=True)
-            outputs = model.generate(**inputs, max_length=512, forced_bos_token_id=lang_id)
-            translated_batch = tokenizer.batch_decode(outputs, skip_special_tokens=True)
-            translated_lines.extend(translated_batch)
+    # Create a list to store results from each thread
+    results = [None] * len(batches)
 
-        song["nllb-200-translation"] = "\n".join(translated_lines)
-        print(song["nllb-200-translation"])
-        print(f"processed: {i}")
+    # List to hold threads
+    threads = []
 
-    # Save the updated JSON file
-    with open("/Users/danielhughes/Documents/College/Fourth-Year/Capstone/Dissertation/data_files/en-es_trial.json", "w", encoding="utf-8") as f:
-        json.dump(songs, f, ensure_ascii=False, indent=4)
+    # Use threading for parallel processing
+    for i, batch in enumerate(batches):
+        thread = threading.Thread(target=process_batch, args=(batch, results, i))
+        threads.append(thread)
+        thread.start()
 
+    # Use tqdm for the progress bar
+    for i, thread in enumerate(threads):
+        thread.join()  # Wait for all threads to finish
+        tqdm.write(f"Batch {i+1}/{len(batches)} completed")
+
+    # Flatten the list of lists into a single list
+    translated_lines = [line for batch in results for line in batch]
+
+    # Write translations to output file
+    with open(output_file, "w", encoding="utf-8") as file:
+        file.write("\n".join(translated_lines))
+
+    print("Parallel translation complete!")
 
 if __name__ == "__main__":
     main()

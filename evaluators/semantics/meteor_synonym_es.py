@@ -1,14 +1,12 @@
-from multiprocessing import Pool, cpu_count, freeze_support
+import json
+import os
 from concurrent.futures import ThreadPoolExecutor
-from functools import lru_cache
-from tqdm import tqdm
+from multiprocessing import freeze_support
 from ufal.udpipe import Model, Pipeline
 import requests
 from bs4 import BeautifulSoup
-import json
-import os
 
-SYNONYM_CACHE_FILE = "evaluators/semantics/synonyms_cache_ga.json"
+SYNONYM_CACHE_FILE = "evaluators/semantics/synonyms_cache_es.json"
 synonym_cache = {}
 
 # Load cached synonyms to avoid redundant HTTP requests
@@ -38,7 +36,7 @@ def fetch_synonyms_batch(words, pipeline):
     return dict(zip(words, results))
 
 
-# Fetch synonyms from Potafocal
+# Fetch synonyms from 
 def fetch_synonyms(word, pipeline):
     if word in synonym_cache:
         return synonym_cache[word]

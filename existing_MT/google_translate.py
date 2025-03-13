@@ -1,40 +1,57 @@
 import json
+import multiprocessing
 from google.cloud import translate_v2 as translate
 
 
-def translate_text(target: str, texts: list) -> list:
-    """Translates a list of texts into the target language."""
+def translate_texts(target: str, texts: list) -> list:
+    """Translates a batch of texts into the target language using Google Translate API."""
     
     translate_client = translate.Client()
 
-    # Ensure all text is a string
+    # Clean input texts (remove newlines, ensure they're strings)
+    texts = [t.strip() for t in texts if t.strip()]
+
+    # Ensure all text inputs are strings
     texts = [t.decode("utf-8") if isinstance(t, bytes) else t for t in texts]
 
-    # Google Translate API supports batch translation
+    # Call API in batch mode
     results = translate_client.translate(texts, target_language=target)
 
-    # Extract translations from response
+    # Extract and return translations
     return [result["translatedText"] for result in results]
 
 
+def process_batch(batch):
+    """Worker function to process a batch of text."""
+    return translate_texts("es", batch)
+
+
 def main():
-    # Load the JSON file
-    with open("/Users/danielhughes/Documents/College/Fourth-Year/Capstone/Dissertation/data_files/en-es_trial.json", "r", encoding="utf-8") as f:
-        songs = json.load(f)
+    input_file = "/Users/danielhughes/Documents/College/Fourth-Year/Capstone/Dissertation/es_txt_files/originals.txt"
+    output_file = "/Users/danielhughes/Documents/College/Fourth-Year/Capstone/Dissertation/es_txt_files/googles.txt"
 
-    for song in songs:
-        original_lyrics = song.get("original-lyrics", "")
-        if original_lyrics:
-            sentences = original_lyrics.split("\n")
-            try:
-                translated_sentences = translate_text("es", sentences)
-                song["google-translation"] = "\n".join(translated_sentences)
-            except Exception as e:
-                print(f"Error translating song '{song.get('title', 'Unknown')}': {e}")
+    # Load input lines
+    with open(input_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
 
-    with open("data_files/en-es_trial_2.json", "w", encoding="utf-8") as f:
-        json.dump(songs, f, ensure_ascii=False, indent=4)
+    print(f"Total lines to translate: {len(lines)}")
 
+    batch_size = 50  # Adjust batch size
+    batches = [lines[i:i + batch_size] for i in range(0, len(lines), batch_size)]
+
+    # Use multiprocessing to process batches in parallel
+    num_workers = min(multiprocessing.cpu_count(), len(batches))  # Limit workers to available batches
+    with multiprocessing.Pool(processes=num_workers) as pool:
+        translated_batches = pool.map(process_batch, batches)  # Distribute work
+
+    # Flatten the list of lists
+    translated_lines = [line for batch in translated_batches for line in batch]
+
+    # Write translations to output file
+    with open(output_file, "w", encoding="utf-8") as file:
+        file.write("\n".join(translated_lines))
+
+    print("Parallel translation complete!")
 
 if __name__ == "__main__":
     main()
